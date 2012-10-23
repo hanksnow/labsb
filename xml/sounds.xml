@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!--   <sound type="MP3" url="clips/.mp3" title=""/> -->
 <content>
 	<version>4.0</version>
@@ -127,9 +127,6 @@
 			<sound type="MP3" url="clips/Metallagher - Landmine.mp3" title="Landmine"/>
 			<sound type="MP3" url="clips/Full House - You Got It Dude.mp3" title="You Got It Dude"/>
 			<sound type="MP3" url="clips/Dip My Balls.mp3" title="Dip My Balls"/>
-			<sound type="MP3" url="clips/.mp3" title=""/>
-			<sound type="MP3" url="clips/.mp3" title=""/>
-			<sound type="MP3" url="clips/.mp3" title=""/>
 			<!-- <sound type="MP3" url="clips/.mp3" title=""/>-->
 		</section>
 	</page>
