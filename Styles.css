@@ -1,0 +1,73 @@
+/* CSS file */
+@namespace s "library://ns.adobe.com/flex/spark";
+@namespace mx "library://ns.adobe.com/flex/mx";
+@namespace local "*";
+
+.sections {
+	left: 0; 
+	right: 0; 
+	percentWidth: 100;
+}
+
+.bar {
+	left: 0; 
+	right: 0; 
+	percentWidth: 100;
+}
+
+.pageBar {
+	left: 0;
+	right: 0;
+	percentWidth: 100;
+	backgroundColor: #000000;
+	backgroundAlpa: 0;
+	linkButtonStyleName: "linkButton";
+}
+
+mx|LinkBar {
+	linkButtonStyleName: "linkButton";
+	contentBackgroundAlpha: 0.4;
+	contentBackgroundColor: #000000;
+	rollOverColor: #CCCCCC;
+	cornerRadius: 3;
+	separatorColor: #FFFFFF;
+	selectedColor: #FFFFFF;
+	selectionColor: #FF0000;
+	textSelectedColor: #000000;
+	textRolloverColor: #000000;
+}
+
+.linkButton {
+	fontSize : "14";
+	color: #FFFFFF;
+	disabledColor: #FF0000;
+}
+
+.pageSectionsBar {
+	linkButtonStyleName: "pageSectionLinkButton";
+	contentBackgroundAlpha: 0.4;
+	contentBackgroundColor: #000000;
+	rollOverColor: #CCCCCC;
+	cornerRadius: 3;
+	separatorColor: #FFFFFF;
+	selectedColor: #FFFFFF;
+	selectionColor: #FF0000;
+	textSelectedColor: #000000;
+	textRolloverColor: #000000;
+}
+
+.pageSectionLinkButton {
+	fontSize : "16";
+	color: #FFFFFF;
+	disabledColor: #FF0000;
+	
+}
+
+.buttonContent {
+	width: 1200;
+	top: 50;
+	left: 10;
+	bottom: 10;
+	right: 10;
+}
+
